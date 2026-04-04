@@ -1,4 +1,14 @@
 # Análise do Impacto das Redes Sociais na Saúde Mental
+
+MVP — Análise Exploratória e Pré-processamento de Dados
+Aluno: Esther Martins Nóbrega
+Matricula: 4052025002591
+Curso: Pós-Graduação em Ciência de Dados e Analytics — PUC-Rio
+Disciplina: Análise Exploratória e Pré-processamento de Dados
+Dataset: Social Media and Mental Health — Kaggle (souvikahmed071)
+
+---
+
 ## Objetivo
 
 Este projeto tem como objetivo investigar a relação entre o uso de redes sociais e indicadores de saúde mental, como ansiedade, estresse e qualidade do sono, por meio de técnicas de análise exploratória de dados e pré-processamento. Analisar como o tempo de uso de redes sociais pode influenciar variáveis relacionadas ao bem-estar psicológico, identificando padrões, correlações e possíveis insights a partir dos dados.
