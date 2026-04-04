@@ -99,7 +99,7 @@ Este estudo possui caráter exploratório e baseia-se em dados provenientes de u
 ## Estrutura do Projeto
 
 ```
-analise-saude-mental-redes-sociais/
+mvp-analise-dados-saude-mental/
 │
 |- README.md
 |- notebook.ipynb
