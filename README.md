@@ -1,10 +1,10 @@
 # Análise do Impacto das Redes Sociais na Saúde Mental
 
-MVP — Análise Exploratória e Pré-processamento de Dados
-Aluno: Esther Martins Nóbrega
-Matricula: 4052025002591
-Curso: Pós-Graduação em Ciência de Dados e Analytics — PUC-Rio
-Disciplina: Análise Exploratória e Pré-processamento de Dados
+MVP — Análise Exploratória e Pré-processamento de Dados  
+Aluno: Esther Martins Nóbrega  
+Matricula: 4052025002591  
+Curso: Pós-Graduação em Ciência de Dados e Analytics — PUC-Rio  
+Disciplina: Análise Exploratória e Pré-processamento de Dados  
 Dataset: Social Media and Mental Health — Kaggle (souvikahmed071)
 
 ---
